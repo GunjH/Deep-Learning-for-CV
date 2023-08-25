@@ -1,0 +1,15 @@
+torch
+torchvision
+tqdm
+imageio
+pytorch_lightning
+albumentations
+torchdata
+torchmetrics
+geojson
+rasterio
+shapely
+segmentation_models_pytorch
+ipywidgets
+smart_open
+tensorboard
